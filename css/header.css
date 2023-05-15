@@ -29,7 +29,6 @@
   color: #ffffff;
   display: block;
   text-transform: uppercase;
-
 }
 
 @media (max-width: 800px) {
@@ -40,6 +39,7 @@
   }
   .header a {
     background: #ffffff;
+    color: #202235;
     border-radius: 4px;
   }
 }
